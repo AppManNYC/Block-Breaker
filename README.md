@@ -1,2 +1,2 @@
 # Block-Breaker
-![alt text](screenshots/Block Breaker Screenshot.png "Description goes here")
+![alt text](Block Breaker Screenshot.png "Description goes here")
