@@ -1,2 +1,2 @@
 # Block-Breaker
-![picture](Block Breaker Screenshot.png)
+![picture](Block-Breaker/Block Breaker Screenshot.png)
