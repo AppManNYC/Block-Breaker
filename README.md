@@ -1,2 +1,2 @@
 # Block-Breaker
-![picture](Block-Breaker/Block Breaker Screenshot.png)
+<a href="https://imgur.com/LYMSUht" target="_blank"><img src="https://imgur.com/LYMSUht" border="0" alt="Image and video hosting by TinyPic"></a>
